@@ -1,4 +1,5 @@
-# C-Code
+# Intro to C++ Code
+
 
 This repository contains C++ programs and assignments created for CE 122: Intouction to C++.
 
